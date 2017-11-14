@@ -44,7 +44,7 @@ Below are a list of resources that you may use to get some dope fonts!
 * [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces.
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
-* [SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Great font, despite its "interesting" name
+* [SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Great font, despite its "interesting" name; never judge a book by its cover!
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans) - Also available on Google Fonts, in case you get too lazy to download
 
 
