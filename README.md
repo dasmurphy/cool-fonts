@@ -1,5 +1,5 @@
 # Cool Fonts
-Some cool typography fonts to use on websites. Download from here and delete when finished to reduce space.
+Some cool typography and typography fonts to use on websites. Download from here and delete when finished to reduce space.
 
 Below are a list of resources that you may use to get some dope fonts!
 
