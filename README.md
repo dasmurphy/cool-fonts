@@ -1,5 +1,7 @@
-# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of fonts and typography resources.
+# Awesome fonts
+Some cool typography fonts to use on websites. Download from here and delete when finished to reduce space.
+
+Below are a list of resources that you may use to get some dope fonts!
 
 ## Contents
 
